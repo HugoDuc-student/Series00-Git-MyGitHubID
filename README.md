@@ -1,2 +1,2 @@
-# Series00-Git-MyGitHubID
+# Series00-Git-HugoDuc
 Repository for learning Basics 
