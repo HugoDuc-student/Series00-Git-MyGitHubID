@@ -1,6 +1,6 @@
 # Series00-Git-HugoDuc
 Repository for learning Basics 
-#introduction
+# introduction
 this repository is used to learn the basics of Git and GitHub and I look forwrard to enhance my competencies 
 ## illustration
 voici une image me faisant penser à Git : 
