@@ -8,3 +8,5 @@ voici une image me faisant penser à Git :
 ### motivation paragraphs 
 I am very excited to learn Git, R and VS Code this year. To be fair, it's not easy for me to understand and use these services but I learn very fast ! Learning to use these tools allows me to develop my hard skills and to build a real toolbox for supporting athletes ! I am realy looking forward for this year ! 
 ![Description de l'image](images/Capture d’écran 2021-01-18 à 12.30.38.png)
+#### learning summary 
+Throw this assignement I learn how to do some markdown with different sections throw the #. I also learn the difference btw Git, Git Desktop and VS Code and the roles of these different tools. To do so, it took me almost 2 hours and half. 
